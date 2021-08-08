@@ -1,6 +1,6 @@
 # Add support to Lexy's Legacy of the Dragonborn: Special Edition
 ## Important notice
-As it is a small guide deviation, Do it at very late, after checking if everything works as it should.
+As it is a small guide deviation, do it at very late, after checking if everything works as it should.
 
 Each patches must be installed under is normal counterpart except Experience's one.
 ## Installation
