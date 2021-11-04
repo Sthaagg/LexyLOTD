@@ -12,7 +12,7 @@ You will need to install patch from the mod [Complete Widescreen Fix for Vanilla
 4. Opt. 1 - Wider MCM Menu for SkyUI - Widescreen Fix
 5. Better MessageBox Control Widescreen Fix
 6. Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
-7. Move Minimal Oblivion Dialogue Menu (Moded EZ2C Dialogue Menu) just right under **Complete Widescreen Fix for SkyUI 5.2 SE Alpha**
+7. Move **Minimal Oblivion Dialogue Menu (Moded EZ2C Dialogue Menu)** & **Better Sleep Wait Menu** just right under **Complete Widescreen Fix for SkyUI 5.2 SE Alpha**
 8. Replace dialoguemenu.cfg content by content of the one uploaded [here](dialoguemenu.cfg)
 
 You will need to adjust frostfall mcm value, as the ones given by the guide don't fit well with an UW screen, same with Matter of time.
